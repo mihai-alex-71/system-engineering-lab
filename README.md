@@ -9,4 +9,4 @@ Systems Engineering laboratory work, Politehnica University of Bucharest, FILS.
 
 ## Status
 
-Lab 4 in progress.
+Lab 4: quality tools done (Mihai).
