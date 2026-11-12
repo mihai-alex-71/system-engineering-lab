@@ -13,4 +13,4 @@ Systems Engineering laboratory work, Politehnica University of Bucharest, FILS.
 
 ## Status
 
-Lab 4: quality tools done (Mihai).
+Lab 4: quality tools done (Mihai & Armin).
