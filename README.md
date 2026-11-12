@@ -13,4 +13,4 @@ Systems Engineering laboratory work, Politehnica University of Bucharest, FILS.
 
 ## Status
 
-Lab 4 in progress.
+Lab 4: exercises 2 and 3 completed (Armin).
